@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Practice 2</string>
+    <string name="ingrese_la_operaci_n">Ingrese la operación</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="resultado">resultado</string>
+    <string name="c">C</string>
+    <string name="parentesis">( )</string>
+    <string name="por_ciento">%</string>
+    <string name="enter">÷</string>
+    <string name="por">×</string>
+    <string name="menos">-</string>
+    <string name="mas">+</string>
+    <string name="igual">=</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="mas_menos">+/-</string>
+    <string name="_0">0</string>
+    <string name="punto">.</string>
+</resources>
